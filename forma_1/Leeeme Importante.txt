@@ -1,0 +1,14 @@
+Esta apliacion es de uso libre y gratuito.
+
+Si quieres conocer el tamaño maximo de archivo que puedes subir en el servidor local, abre tu archivo php.ini
+y busca upload_max_filesize = 2M, normalmente esta en 2 MegaBytes aunque tu lo puedes cambiar, lo recomendado
+es no aumentar demasiado.
+
+Si quieres mas tutoriales visita mi pagina web http://codigoweblibre.comli.com/ constantemente subire mas tutoriales
+incluso suscribete y te llegaran los tutoriales a tu correo, comenta paticipa para saber que tutoriales necesitas, 
+y si puedo :) con gusto lo haré.
+
+http://codigoweblibre.comli.com/
+Tambien puedes escribirme al codigoweblibre@gmail.com o a comentarios@codigoweblibre.comli.com
+
+
